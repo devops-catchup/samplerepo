@@ -1,3 +1,3 @@
 Hello Java
 
-world
+a=10
